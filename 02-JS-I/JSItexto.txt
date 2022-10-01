@@ -1,0 +1,21 @@
+Variables
+strings
+funciones(argumentos, return)
+delcaraciones (if)
+valores booleanos (true, false)
+
+
+Variables:
+En JavaScript las variables se utilizan para almacenar un valor para mas tarde poder utilizarlo. Existen tres tipos de variables: var, let y const.
+
+Strings:
+Los strings son bloques de texto que van siempre entr comillas sean dobles o simples. 
+
+Funciones (argumentos, return)
+Las funciones son importantes para la programacion, objetos invocables. Para un conjunto de variables se necesitan funciones para hacer algo con estas mismas.
+Los argumentos son lo que van dentro entre parentesis de la funcion ej.
+Function loghola (argumento)
+Return se usa cuando queremos devolver algo especifico de la funcion, esto hara que la funcion deje de hacer lo que esta haciendo y devuelva algo.
+
+Booleanos
+Sigue la logica del binario (0 y 1). En javaScript se usa simplemente para declarar algo como verdadero O falso. 
